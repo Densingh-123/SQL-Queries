@@ -126,7 +126,7 @@ Clone the repository:
 git clone https://github.com/Densingh-123/SQL-Queries
 
 Navigate to the directory:
-
+🔥 SQL Implementations for Each Concept
 cd rdbms-concepts
 
 Open the SQL scripts in your preferred database client.
