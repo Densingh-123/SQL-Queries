@@ -123,7 +123,7 @@ COMMIT; -- To save the changes
 
 Clone the repository:
 
-git clone https://github.com/yourusername/rdbms-concepts.git
+git clone https://github.com/Densingh-123/SQL-Queries
 
 Navigate to the directory:
 
