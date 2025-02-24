@@ -101,4 +101,4 @@ select customer_name, ammount,
  when  ip_address is null then customer_name
  else  ip_address
  end as 'IP address'
- from customer
+ from customer;
