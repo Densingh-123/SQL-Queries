@@ -1,6 +1,6 @@
 RDBMS Concepts Repository
 
-This repository contains all fundamental concepts of Relational Database Management Systems (RDBMS) along with their SQL implementations. It serves as a comprehensive reference for learning and practicing RDBMS concepts.
+This repository contains all fundamental concepts of Relational Database Management Systems (RDBMS) along with their SQL implementations. It serves as a comprehensive reference for learning and practicing RDBMS concepts
 
 📌 Topics Covered
 
