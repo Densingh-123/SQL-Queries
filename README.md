@@ -6,7 +6,7 @@ This repository contains all fundamental concepts of Relational Database Managem
 
 Introduction to RDBMS.
 
-Data Types in SQL
+Data Types in SQL.
 
 Constraints (Primary Key, Foreign Key, Unique, Not Null, Check, Default)
 
