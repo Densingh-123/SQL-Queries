@@ -8,7 +8,7 @@ Introduction to RDBMS.
 
 Data Types in SQL.
 
-Constraints (Primary Key, Foreign Key, Unique, Not Null, Check, Default)
+Constraints (Primary Key, Foreign Key, Unique, Not Null, Check, Default).
 
 SQL Queries (SELECT, INSERT, UPDATE, DELETE)
 
