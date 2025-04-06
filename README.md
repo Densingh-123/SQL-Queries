@@ -12,7 +12,7 @@ Constraints (Primary Key, Foreign Key, Unique, Not Null, Check, Default)
 
 SQL Queries (SELECT, INSERT, UPDATE, DELETE)
 
-Joins (INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, SELF JOIN, CROSS JOIN)
+Joins (INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, SELF JOIN, CROSS JOIN).
 
 Aggregation Functions (COUNT, SUM, AVG, MIN, MAX, GROUP BY, HAVING)
 
