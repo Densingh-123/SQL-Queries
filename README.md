@@ -4,7 +4,7 @@ This repository contains all fundamental concepts of Relational Database Managem
 
 📌 Topics Covered.
 
-Introduction to RDBMS.
+Introduction to RDBMS
 
 Data Types in SQL.
 
